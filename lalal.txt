@@ -3,4 +3,4 @@ Git is free software.
 Git is good.
 Git is a distribution system;
 Git can be powerful
-Git track changes
+Git track changes of files.
